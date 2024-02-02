@@ -8,7 +8,9 @@
 
 #### Workplace setup ####
 # install.packages("babynames")
+# install.packages("tidyverse")
 library(babynames)
+library(tidyverse)
 
 #### Simulation ####
 set.seed(823)
